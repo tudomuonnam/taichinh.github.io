@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lãi suất kép là gì?</title>
+      <link>http://example.org/post/lai-suat-kep-la-gi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/lai-suat-kep-la-gi/</guid>
+      <description>Lãi suất kép là gì? Và tại sao bạn lại được hưởng lợi từ nó  Lãi suất kép là kì quan thứ 8 của nhân loại &amp;ndash; Albe Anstein   tag: lãi suất, cơ bản </description>
+    </item>
+    
+    <item>
+      <title>Đầu tư được công nhận là kĩ năng cơ bản</title>
+      <link>http://example.org/post/dau-tu-la-ki-nang-co-ban/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/dau-tu-la-ki-nang-co-ban/</guid>
+      <description>Đầu tư là kĩ năng cơ bản Gần đây, tổ chức ABC đã liệt kĩ năng đầu tư là một kĩ năng cơ bản của mọi công dân. Đều đó có nghĩa là, dần dần, việc đầu tư sẽ phổ biến đến tất cả mọi người
+ categories: [khái niệm cơ bản] tags: [đầu tư, tài chính] </description>
+    </item>
+    
+  </channel>
+</rss>
