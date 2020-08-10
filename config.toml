@@ -1,8 +1,29 @@
 baseURL = "https://taichinhdongian.netlify.app"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "vi"
+#title = "Tài chính đơn giản"
 theme = "prav"
 
 [taxonomies]
    tag = "tags"
    category = "categories"
+
+pygmentsCodeFences = "true"
+pygmentsStyle = "perldoc"
+
+#googleanalytics = ""
+#disqusShortname = ""
+
+# Below settings are used throughout the theme. Please update
+[params]
+  title = "Tài chính đơn giản"
+  tagline = "Đến hòn đá cũng hiểu"
+  author = "Long Vũ"
+  body_classes = "avenir bg-near-white"
+
+[social]
+  email = "mailto:vuduclong2005@gmail.com"
+  facebook = "https://www.facebook.com/long.vuduc"
+  twitter = "http://twitter.com/tudomuonnam"
+  #medium = "https://www.medium.com/@pravin"
+  #github = "https://github.com/pravin"
+  #linkedin = "http://uk.linkedin.com/in/pravinp"

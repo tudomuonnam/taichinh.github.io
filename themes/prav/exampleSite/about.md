@@ -87,17 +87,17 @@ pygmentsStyle = "perldoc"
 
 # Below settings are used throughout the theme. Please update
 [params]
-  title = "Hugo Theme - Prav"
-  tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  author = "Pravin Paratey"
+  title = "Tài chính đơn giản"
+  tagline = "Đến hòn đá cũng hiểu"
+  author = "Long Vũ"
 
 [social]
-  email = "mailto:pravin@paratey.com"
-  facebook = "https://www.facebook.com/pravin.paratey"
-  twitter = "http://twitter.com/pravin"
-  medium = "https://www.medium.com/@pravin"
-  github = "https://github.com/pravin"
-  linkedin = "http://uk.linkedin.com/in/pravinp"
+  email = "mailto:vuduclong2005@gmail.com"
+  facebook = "https://www.facebook.com/long.vuduc"
+  twitter = "http://twitter.com/tudomuonnam"
+  #medium = "https://www.medium.com/@pravin"
+  #github = "https://github.com/pravin"
+  #linkedin = "http://uk.linkedin.com/in/pravinp"
 
 
 # Set unsafe mode to allow markdownify to work with goldmark

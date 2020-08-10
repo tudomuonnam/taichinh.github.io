@@ -2,7 +2,7 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 description: ""
 date: {{ .Date }}
-author: ""
+author: "Longvd"
 tags: []
 image: ""
 ---
