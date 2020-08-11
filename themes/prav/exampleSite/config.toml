@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+#baseURL = "https://example.com/"
 languageCode = "en-gb"
 title = "Hugo Theme - Prav"
 theme = "hugo-theme-prav"
@@ -14,10 +14,10 @@ pygmentsStyle = "perldoc"
 # The settings below are used throughout the theme.
 # Please update!
 [params]
-    title = "Hugo Theme - Prav"
-    tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    author = "Pravin Paratey"
-    authorImgPath = "/img/author.png"
+    title = "Tài chính Blog"
+    tagline = "My tagline"
+    author = "Long Vũ"
+    authorImgPath = "/static/img/author.jpg"
     authorBlurb = "Something about me"
 
 # If you do not want a social icon, just comment it out

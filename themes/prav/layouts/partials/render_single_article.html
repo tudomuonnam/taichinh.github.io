@@ -1,11 +1,15 @@
 {{ if or (.Date) (ne .Params.Kind "page") }}
 <div class="date">
-    <time pubdate="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+   <time pubdate="{{ .Date.Format "2020-01-02" }}">{{ .Date.Format "January 2, 2020" }}</time>
     <span class="author">by {{ .Params.author }}</span>
 </div>
 {{ end }}
 <article>
     <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    <aside>
+        <Strong>Mục lục </Strong>
+        {{ .TableOfContents }}
+    </aside>
     <div class="tags">
         {{ range .Params.tags }}
         {{ $name := . }}
@@ -14,3 +18,4 @@
     </div>
     {{ replace .Content "<table>" "<table class='pure-table pure-table-striped'>" | safeHTML }}
 </article>
+
