@@ -1,6 +1,14 @@
-# Chào mừng bạn đến với taichinhdongian
-Mình là Long rất vui được làm quen với mọi người
-# Tại sao tôi lập blog tai chinh don gian?
+---
+title: Về Blog tài chính đơn giản
+slug: about-blog
+author: longvd
+date: Aug 9,2020
+---
+> _Quy tắc đầu tư: (1) Không bao giờ để mất tiền. (2) Không bao giờ quên quy tắc 1_
+
+--<cite> Warren Buffett </cite>
+
+# Tại sao blog này ra đời?
 Quản lý tài chính là một việc chúng ta gần như tiếp xúc cả đời. Từ việc chạy ra tạp hoá mua cái kẹo đầu tiên, đến những quyết đinh có ảnh hưởng lớn đến cuộc đời như đi học, du học, mua đất, xây nhà, cưới vợ, .... đều dính dáng đến tiền bạc hay kĩ năng quản lý tài chính. Mọi người thường bắt đầu bằng việc quyết định đút tiền vào heo đất hay mua kẹo ăn luôn đến mua một mảnh đất để ở hay thuê nhà và gửi tiết kiệm.
 Có bao nhiêu % khoa học trong các quyết định tài chính hay chúng ta để mặc cuộc sống vận hành và đổ thừa cho rủi ro, may mắn? Dưới đây là một số lý do giúp mình muốn mở rộng kiến thức về tài chính.
 ## 1. Quản lý tài chính cá nhân đã trở thành một kĩ năng cơ bản
