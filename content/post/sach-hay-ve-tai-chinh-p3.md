@@ -8,7 +8,7 @@ date: Aug 11,2020
 
 Sách tư duy dễ đọc hơn sách kiến thức. Chúng thường gồm dữ liệu quan sát thị trường một thời gian dài và đưa ra một số kết luận từ người quan sát. Sách kiểu này thường được gọi là _"khẩu quyết_. Chúng thường định hướng tư duy cho nhà đầu tư. Một số sách dạng này gồm
 
-## 1. Nhà đầu tư thông minh 
+## 1. Nhà đầu tư thông minh (Intelligent Investor)
 
 Có lẽ không phải nói nhiều về mức độ phổ biến của cuốn sách này. Gần như bất kì ai nghĩ dến đầu tư hoặc đầu tư giá trị đều (nên) đọc nó để có cái nhìn toàn cảnh thị trường chứng khoán Mỹ. Từ đó bạn có thể rút ra nhiều bài học cho mình và hiểu thêm về các khái niệm:
 - Đầu tư thụ động và đầu tư chủ động 
@@ -20,7 +20,7 @@ Có lẽ không phải nói nhiều về mức độ phổ biến của cuốn s
 
 Có lẽ đây thực sự là cuốn sách kinh điển về đầu tư. Mỗi lần đọc lại, bản thân mình vẫn nhận thấy như được học thêm kiến thức mới.
 
-## 2. Sự hăng hái quá mức
+## 2. Sự hăng hái quá mức - Irrational Exuberance (Robert J.Shiller)
 
 Gần giống với Nhà Đầu Tư Thông Minh, Sự hăng hái quá mức sử dụng dữ liệu về thị trường trong gần 120 năm thị trường chứng khoán. Nhờ chỉ số Shiller Index, ông được cho là đã dự đoán được sự sụp đổ của bong bóng Dot Com những năm 2000, khủng hoảng nhà đất 2009 và khủng hoảng trái phiếu những năm ...2020. 
 
@@ -39,7 +39,7 @@ Với niềm tin trên, ngài Bogle, sáng lập công ty quản lý quỹ Vangu
 Sau khi đọc cuốn sách này, có lẽ niềm tin về việc đầu tư của bạn sẽ thay đổi ít nhiều.
 
 
-## 4. Thiên Nga Đen, Antifragile, Trò đùa của sự ngẫu nhiên (Taleb, Nassim)
+## 4. Thiên Nga Đen, Antifragile, Trò đùa của sự ngẫu nhiên (Taleb Nassim)
 
 Nếu các cuốn sách trên nhìn nhận cơ hội đầu tư dựa theo suốt chiều dài lịch sử và khuyên các nhà đầu tư (phần lớn nhỏ lẻ và bị động) nên giữ sự phòng thủ, an toàn nhiều hơn là năng động. Taleb Nassim không làm như vậy với sách của ông.
 
@@ -50,11 +50,17 @@ Phần lớn ý tưởng trong cuốn sách thực sự nhiễu loạn và khó 
 
 Nhìn chung, sách của Taleb Nassim cho ta một góc nhìn hoàn toàn khác về đầu tư và quản trị rủi ro so với lý thuyết đầu tư chính thống. Chúng ta có thể đồng ý với ông về các rủi ro không thể dự báo nhưng có sức phá huỷ rất lớn như Vụ Khủng Bố 11/9 hay Virus Covid 19. Xong để dự báo và phản ứng với rủi ro này như thế nào thì ông không diễn giải (một cách rõ ràng) trong các sách của mình. Hi vọng bàn tìm đọc những cuốn sách này, hiểu rõ hơn và giải thích giùm mình.
 
-## 5. Tạm kết
+## 5. Triệu phú nhà bên (The Millionaire Next Door)
 
-Chúng ta đã điểm qua 5 cuốn sách "khẩu quyết" để có cái nhìn sâu sắc về thị trường trong suốt chiều dài lịch sử. Đi qua các phương pháp làm giàu mà các nhà đầu tư quảng cáo là thành công vượt trội, đánh bại phố Wall. Và thấy rằng phần lớn chúng thất bại. Chỉ có một số ít các nhà đầu tư đã thực sự làm được điều đó. Và họ có một nhóm các nguyên tắc cơ bản chúng ta có thể học theo.
+Trước khi bắt tay vào đầu tư, có lẽ bạn nên đọc cuốn sách này trước. Cũng sử dụng phương pháp thống kê, tác giả cho thấy một câu mà bạn vẫn thường nghĩ đúng mà hoá sai: "Đừng dạy nhà giàu cách tiêu tiền".
+Cuốn sách cho thấy, phần lớn tầng lớp trung lưu tự thân có khả năng quản lý tiền bạc, tài sản khá tốt. Họ có phương pháp tiêu dùng tiết kiệm. Đầu tư bảo thủ. Giảm thiểu rủi ro. Và giữ tài sản tăng trưởng dần dần. Trong khi tầng lớp chuyên nghiệp như bác sỹ, ngôi sao thể thao, giám đốc công ty lớn ... lại có xu hướng tiêu dùng thái quá, đầu tư mạo hiểm và kết quả là họ không giữ được xu nào trong quỹ tiền lương của mình cả. 
+
+Người giàu cũng có thể sai, người nghèo cũng có thể sai. Đừng nghe lời khuyên của ai. Hãy tin vào con số. Và có lẽ, cả lời khuyên của bà ngoại bạn nữa.
+
+## Tạm kết
+
+Chúng ta đã điểm qua 5 cuốn sách "khẩu quyết" để có cái nhìn sâu sắc về thị trường trong suốt chiều dài lịch sử. Phần lớn các cuốn sách trên đều đã có bản tiếng Việt và dễ tìm, dễ đọc.
+
+Lần lượt điểm qua các phương pháp làm giàu mà các nhà đầu tư quảng cáo là thành công vượt trội, đánh bại phố Wall. Và thấy rằng phần lớn chúng thất bại. Chỉ có một số ít (rất ít) các nhà đầu tư đã thực sự làm được điều đó. Và họ có một nhóm các nguyên tắc cơ bản chúng ta có thể học theo.
 
 Tuy nhiên, cũng phải nhắc bạn rằng. Thị trường luôn thay đổi. Quy tắc đúng ngày hôm nay có thể không hoạt động hiệu quả ngày mai. Bạn phải luôn cập nhật kiến thức, hoặc trả tiền để ai đó làm giùm bạn.
-
-
-
