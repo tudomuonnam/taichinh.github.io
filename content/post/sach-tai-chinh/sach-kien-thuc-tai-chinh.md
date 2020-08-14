@@ -1,10 +1,11 @@
 ---
-title: Những cuốn sách hay về tài chính
+title: Những cuốn sách hay về tài chính (Phần 2) Sách kiến thức
 author: Long Vũ
-slug: sach-hay-ve-tai-chinh-p2
-date: Aug 11,2020
+slug: sach-kien-thuc
+date: 2020-08-11T17:09:54+07:00
+categories: [sach]
+tags: [sach-tai-chinh,sach-kien-thuc,giao-trinh-cfa,dau-tu-tai-chinh,tai-chinh-doanh-nghiep]
 ---
-# Phần 2: Sách kiến thức
 
 ## 1. Đầu tư tài chính - Investments (Bodie - Kane - Marcus)
 Thật tuyệt vời là cuốn sách giáo khoa về đầu tư đã được dịch sang tiếng Việt. Sách bao trùm đầy đủ công cụ, lý thuyết về đầu tư mà bạn có thể áp dụng ngay tại thị trường Việt Nam. 
@@ -57,7 +58,6 @@ Với những cuốn sách trên bạn có đầy đủ kiến thức để tham
 ### 1. Toàn bộ giáo trình CFA (thạc sỹ tài chính)
 ### 2. Những đòn tâm lý trong thuyết phục 
 Cuốn sách viết về tâm lý rất hay, cũng đánh nhiều vào lỗi cố hữu trong tâm lý con người. Hỗ trợ cuốn số 3)
-### 3. ...
 
 ## Kết
 Tạm giới thiệu với bạn vài cuốn sách giáo trình kinh điển trên. Nếu bạn đã học hết chương trình tài chính tại các trường đại học. Có thể kiến thức trên không có gì xa lại. Nếu bạn là dân ngoại đạo (như mình) muốn tìm hiểu kiến thức nền tảng, những cuốn sách trên là rất hữu ích. Ít nhất là mình đọc và thấy thế. 
@@ -65,3 +65,4 @@ Tạm giới thiệu với bạn vài cuốn sách giáo trình kinh điển tr�
 Hãy chia sẻ cuốn sách bạn tâm đắc xuống mục dưới để mọi người cùng đọc nhé.
 
 Nếu bạn quan tâm đến [__sách tài chính tư duy__](/post/sach-hay-ve-tai-chinh-p3) thì hãy chuyển sang phần tiếp theo nào.
+

@@ -3,32 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
-    <priority>0</priority>
+    <loc>https://taichinhdongian.netlify.app/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://taichinhdongian.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/lai-suat-kep-la-gi/</loc>
+    <loc>https://taichinhdongian.netlify.app/post/lai-suat-kep-la-gi/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://taichinhdongian.netlify.app/post/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://taichinhdongian.netlify.app/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://taichinhdongian.netlify.app/post/tai-chinh-ca-nhan/tai-chinh-ca-nhan-la-gi/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/dau-tu-la-ki-nang-co-ban/</loc>
+    <loc>https://taichinhdongian.netlify.app/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://taichinhdongian.netlify.app/post/about-me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://taichinhdongian.netlify.app/post/dau-tu-la-ki-nang-co-ban/</loc>
   </url>
   
 </urlset>

@@ -1,17 +1,13 @@
 ---
-title: Những cuốn sách hay về tài chính
+title: Những cuốn sách hay về tài chính (Phần 1) Phân loại sách
+descriptions: Lời mở đầu về những cuốn sách tài chính hay
 author: Long Vũ
-slug: sach-hay-ve-tai-chinh-p1
-date: Aug 11,2020
+slug: phan-loai-sach-tai-chinh
+date: 2020-08-10T17:09:54+07:00
+categories: [sach]
+tags: [sach-tai-chinh,sach-kien-thuc,sach-tu-duy]
 ---
-# Phần 1: Vài lời dẫn trước 
-Đọc sách không chỉ mang giá trị giải trí, nó còn là nguồn cung cấp kiến thức đầy đủ và toàn diện nhất. Đọc sách giúp nhớ kiến thức lâu hơn và dễ tra lại đơn giản hơn các cách khác như xem bài giảng Video và "các chuyên gia" mạng giải thích. 
 
-Điểm bất lợi là đọc sách hơi buồn tẻ. Sách kiến thức thì rất khô khan. Sách truyền động lực thì dễ đọc nhưng chả áp dụng được gì cả.
-
-Bản thân mình thích sách hơn Video vì sách rất yên tĩnh. Bạn không bị nhiễu động bởi âm thanh, ánh sáng từ máy tính. Quảng cáo (dù vô tình hay cố ý) từ video là điều mình khó chịu nhất, khiến việc học tập không thể liên tục được.
-
-Ok, quay về nội dung chính. Nếu bạn đọc đủ nhiều và đủ lâu sẽ thấy phần lớn sách đề na ná như nhau. Tìm kiếm được 1 kiến thức mới sau vài trăm trang sách là rất quý giá rồi. Sau đây mình sẽ tổng hợp một số cuốn sách mà mình đọc và cảm thấy bổ ích nhất cho ngành tài chính. Hãy bắt đầu nào!
 ## Phân loại sách 
 Trước khi đọc bất kì cuốn sách nào, bạn phải xem trước hết cuốn sách đó là cung cấp tư duy hay cung cấp kiến thức.
 - __Sách kiến thức__: cung cấp hiểu biết nền tảng của cả ngành tài chính. Chúng gồm nền tảng về toán học, xác suất thống kê, các lý thuyết được cộng đồng thừa nhận ... sách này là siêu khô khan. Yêu cầu người đọc có nền tảng toán học tốt, kiên nhẫn vô hạn. Nếu bạn chỉ học để thực hành đầu tư cho bản thân, thì không yêu cầu quá cao. Chỉ đơn giản ở đại số sơ cấp, hàm mũ... 
@@ -45,8 +41,3 @@ Mình cũng lười nữa. :D
 
 ## Kết 
 Pheww, vậy là mình đã giới thiệu xong phần 1 của series: <q>Những cuốn sách hay về tài chính </q> .Đọc sách mà cũng phải dài dòng, rào trước đón sau như vậy đấy. Để khỏi mất thời gian thêm nữa, chúng ta sẽ đến với phần 2: [Những cuốn sách kiến thức](/post/sach-kien-thuc-tai-chinh-p2) trước nhé!
-
-
-
-
-

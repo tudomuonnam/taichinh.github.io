@@ -1,0 +1,9 @@
+path,slug,title,date,expiryDate,publishDate,draft,permalink
+content/post/post-2.md,lai-suat-kep-la-gi,Lãi suất kép là gì?,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/post/lai-suat-kep-la-gi/
+content/post/sach-hay-ve-tai-chinh-p1.md,sach-hay-ve-tai-chinh-p1,Những cuốn sách hay về tài chính (Phần 1),0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/post/sach-hay-ve-tai-chinh-p1/
+content/post/sach-hay-ve-tai-chinh-p2.md,sach-hay-ve-tai-chinh-p2,Những cuốn sách hay về tài chính (Phần 2),0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/post/sach-hay-ve-tai-chinh-p2/
+content/post/sach-hay-ve-tai-chinh-p3.md,sach-hay-ve-tai-chinh-p3,Những cuốn sách hay về tài chính (Phần 3),0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/post/sach-hay-ve-tai-chinh-p3/
+content/post/Tai-chinh-ca-nhan/tai-chinh-ca-nhan-la-gi.md,tai-chinh-ca-nhan-la-gi,Tài chính cá nhân là gì?,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/post/tai-chinh-ca-nhan/tai-chinh-ca-nhan-la-gi/
+content/about/index.md,about,Về Blog tài chính đơn giản,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/about/
+content/post/about-me.md,about-me,Về tôi,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/post/about-me/
+content/post/post-1.md,dau-tu-la-ki-nang-co-ban,Đầu tư được công nhận là kĩ năng cơ bản,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,0001-01-01T00:00:00Z,false,https://taichinhdongian.netlify.app/post/dau-tu-la-ki-nang-co-ban/

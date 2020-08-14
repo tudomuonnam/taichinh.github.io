@@ -1,32 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on </title>
+    <link>https://taichinhdongian.netlify.app/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>vi</language>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://taichinhdongian.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lãi suất kép là gì?</title>
-      <link>http://example.org/post/lai-suat-kep-la-gi/</link>
+      <link>https://taichinhdongian.netlify.app/post/lai-suat-kep-la-gi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/lai-suat-kep-la-gi/</guid>
-      <description>Lãi suất kép là gì? Và tại sao bạn lại được hưởng lợi từ nó  Lãi suất kép là kì quan thứ 8 của nhân loại &amp;ndash; Albe Anstein   tag: lãi suất, cơ bản </description>
+      <guid>https://taichinhdongian.netlify.app/post/lai-suat-kep-la-gi/</guid>
+      <description>Lãi suất kép là gì? Và tại sao bạn lại được hưởng lợi từ nó  Lãi suất kép là kì quan thứ 8 của nhân loại &amp;ndash; Albe Anstein 
+  tag: lãi suất, cơ bản </description>
+    </item>
+    
+    <item>
+      <title>Tài chính cá nhân là gì?</title>
+      <link>https://taichinhdongian.netlify.app/post/tai-chinh-ca-nhan/tai-chinh-ca-nhan-la-gi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taichinhdongian.netlify.app/post/tai-chinh-ca-nhan/tai-chinh-ca-nhan-la-gi/</guid>
+      <description>1. Quản lý tài chính cá nhân đã trở thành một kĩ năng cơ bản Trong bối cảnh gần đây, khi lãi suất ngân hàng giảm, nhà đất đóng băng, vàng tăng giá thất thường. Đô la Mỹ giảm. Định hướng của nhà nước sẽ dần chuyển tiền của người dân sang thị trường chứng khoán. Việc có kiến thức về tài chính, đầu tư rõ ràng là cần thiết hơn bao giờ hết.</description>
+    </item>
+    
+    <item>
+      <title>Về tôi</title>
+      <link>https://taichinhdongian.netlify.app/post/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taichinhdongian.netlify.app/post/about-me/</guid>
+      <description>Mình là Long (Vũ Đức Long) rất vui được đón bạn tại &amp;ldquo;ngôi nhà nhỏ&amp;rdquo; của mình là Blog này.
+1. Phận ba chìm bảy nổi Mình tốt nghiệp chuyên ngành Kĩ Sư Điện, Đại Học Bách Khoa. Với ước mơ đi làm cho công ty nước ngoài. Được nghỉ 2 ngày cuối tuần để ăn ngủ và chơi game.
+Ông trời đúng là chiều lòng người, đã giúp mình vào làm việc cho công ty X với chức danh &amp;hellip; trưởng phòng kế hoạch, phụ trách kho, nhân sự và họp hành.</description>
     </item>
     
     <item>
       <title>Đầu tư được công nhận là kĩ năng cơ bản</title>
-      <link>http://example.org/post/dau-tu-la-ki-nang-co-ban/</link>
+      <link>https://taichinhdongian.netlify.app/post/dau-tu-la-ki-nang-co-ban/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/dau-tu-la-ki-nang-co-ban/</guid>
-      <description>Đầu tư là kĩ năng cơ bản Gần đây, tổ chức ABC đã liệt kĩ năng đầu tư là một kĩ năng cơ bản của mọi công dân. Đều đó có nghĩa là, dần dần, việc đầu tư sẽ phổ biến đến tất cả mọi người
- categories: [khái niệm cơ bản] tags: [đầu tư, tài chính] </description>
+      <guid>https://taichinhdongian.netlify.app/post/dau-tu-la-ki-nang-co-ban/</guid>
+      <description>Đầu tư là kĩ năng cơ bản Gần đây, tổ chức ABC đã liệt kĩ năng đầu tư là một kĩ năng cơ bản của mọi công dân. Đều đó có nghĩa là, dần dần, việc đầu tư sẽ phổ biến đến tất cả mọi người #Các kĩ năng cơ bản của đầu tư
+ Khả năng phân tích báo cáo tài chính Phân tích ngành Phân tích kinh tế vĩ mô, vi mô Phân tích dòng tiền   categories: [khái niệm cơ bản] tags: [đầu tư, tài chính] </description>
     </item>
     
   </channel>

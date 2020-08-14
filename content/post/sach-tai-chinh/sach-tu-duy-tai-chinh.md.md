@@ -1,12 +1,13 @@
 ---
-title: Những cuốn sách hay về tài chính
+title: Những cuốn sách hay về tài chính (Phần 3) Sách tư duy
 author: Long Vũ
-slug: sach-hay-ve-tai-chinh-p3
-date: Aug 11,2020
+slug: sach-tu-duy
+date: 2020-08-12T17:09:54+07:00
+categories: [sach-tai-chinh]
+tags: [sach-tai-chinh,sach-tu-duy,nha-dau-ttu-thong-minh,trieu-phu-nha-ben,taleb-nassim]
 ---
-# Phần 3 Sách tư duy
 
-Sách tư duy dễ đọc hơn sách kiến thức. Chúng thường gồm dữ liệu quan sát thị trường một thời gian dài và đưa ra một số kết luận từ người quan sát. Sách kiểu này thường được gọi là _"khẩu quyết_. Chúng thường định hướng tư duy cho nhà đầu tư. Một số sách dạng này gồm
+Sách tư duy dễ đọc hơn sách kiến thức. Chúng thường gồm dữ liệu quan sát thị trường một thời gian dài và đưa ra một số kết luận từ người quan sát. Sách kiểu này thường được gọi là _"khẩu quyết"_. Chúng thường định hướng tư duy cho nhà đầu tư. Một số sách dạng này gồm
 
 ## 1. Nhà đầu tư thông minh (Intelligent Investor)
 
@@ -64,3 +65,5 @@ Chúng ta đã điểm qua 5 cuốn sách "khẩu quyết" để có cái nhìn 
 Lần lượt điểm qua các phương pháp làm giàu mà các nhà đầu tư quảng cáo là thành công vượt trội, đánh bại phố Wall. Và thấy rằng phần lớn chúng thất bại. Chỉ có một số ít (rất ít) các nhà đầu tư đã thực sự làm được điều đó. Và họ có một nhóm các nguyên tắc cơ bản chúng ta có thể học theo.
 
 Tuy nhiên, cũng phải nhắc bạn rằng. Thị trường luôn thay đổi. Quy tắc đúng ngày hôm nay có thể không hoạt động hiệu quả ngày mai. Bạn phải luôn cập nhật kiến thức, hoặc trả tiền để ai đó làm giùm bạn.
+
+---
