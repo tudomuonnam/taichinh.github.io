@@ -2,7 +2,7 @@
 title: Lập kế hoạch tài chính cá nhân đơn giản?
 author: Long Vũ
 slug: ke-hoach-tai-chinh-ca-nhan-don-gian 
-date: Sep 06,2020
+date: 2020-08-18T08:10:32+07:00
 tags: [tài chính cá nhân, tiền tiết kiệm, tự do tài chính]
 ---
 Giả sử bạn đang ngồi mơ mộng về một ngày tươi đẹp, bạn có thể đầu tư một số tiền lớn, hằng tháng lĩnh tiền lãi. Số tiền lãi đó có thể trang trải mọi chi phí hằng tháng. Bạn chỉ việc ngồi nhà ăn chơi, hưởng thụ. Thuật ngữ thường gọi là “Tự do tài chính”. Bạn có tự hỏi số tiền mình cần là bao nhiêu không?
@@ -14,8 +14,8 @@ Nghĩ thì khó mà làm thì dễ. Chỉ với vài công thức, thậm chí b
 Với 3 tỷ VNĐ tiết kiệm trong ngân hàng, mỗi tháng bạn có tiền lãi là 15 triệu. Không phải làm gì nhiều.
 Tương tự vậy, với tiền gửi tiết kiệm lần lượt là 4 tỷ, 5 tỷ, 6 tỷ bạn có 20, 25, 30 triệu/tháng hoàn toàn không phải làm gì. 
 Vấn đề còn lại là cố gắng cày cuốc để kiếm được số tiền đó vứt vào ngân hàng thôi, đúng không nào?
-![Chi phí hàng tháng ảnh hưởng đến tiền tiết kiệm](img/chi-phi-hang-thang.png)
-
+![Chi phí hàng tháng ảnh hưởng đến tiền tiết kiệm](/post/img/chi_phi_hang_thang.png)
+Bạn có thể tìm thấy file tính toán tại [đây](https://docs.google.com/spreadsheets/d/1JwKEoN298JoaFWfP-l1Auh6VI0nUapUNFJ7LCfTg2dk/edit?usp=sharing)
 ## Tầm quan trọng của tiết kiệm 
 Bảng tính trên còn rút ra được vài kết luận hay ho nữa mà bạn có thể thấy.
 

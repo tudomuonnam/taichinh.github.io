@@ -1,6 +1,6 @@
 ---
 title: "Cần cù có bù được thông minh? Nghiên cứu này đã có câu trả lời"
-date: 2020-08-12T20:59:38+07:00
+date: "2020-08-15"
 draft: false
 author: Long Vũ
 tags: [thành công, chăm chỉ, thông minh, nghiên cứu khoa học]
@@ -41,7 +41,7 @@ Mô hình 2: Biến đầu vào gồm 1 chuỗi như mô hình 1 thêm _khả n�
 - Không có sự tương quan giữa chăm chỉ và 3 chỉ số thành công gồm có học thức cao, lương cao và GPA cao
 - Các yếu tố còn lại cũng có độ tương quan rất thấp với mức độ thành công
 
-![Kết quả khảo sát các yếu tố ảnh hưởng đến thành công](img/grit-intelligent.png)
+![Kết quả khảo sát các yếu tố ảnh hưởng đến thành công](/post/img/grit-intelligent.png)
 
 ## Ý nghĩa từ nghiên cứu trên
 - Mức độ thành công sau này của trẻ phụ thuộc khá nhiều vào sự thông minh và điều kiện gia đình. Cho thấy môi trường có tác động khá lớn đối với trẻ.
