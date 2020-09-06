@@ -22,7 +22,12 @@ Bạn có thể tìm thấy file tính toán tại [đây](https://docs.google.c
 ## Tầm quan trọng của tiết kiệm 
 Bảng tính trên còn rút ra được vài kết luận hay ho nữa mà bạn có thể thấy.
 
-Chúng ta đang có chi phí gia đình bạn là 15 triệu/tháng tương ứng với 3 tỷ phúctài khoản tiết kiệm. Giả sử bạn tính lại, mỗi tháng chi phí tăng lên 1 triệu nữa, nghĩa là thay vì 15 triệu/tháng, bạn cần 16 triệu/tháng. Vậy số tiền bạn cần trong ngân hàng là bao nhiêu? Như bạn thấy, đó là 3,2 tỷ. Có thể bạn hơi giật mình. Tôi chỉ tăng lên 1 triệu/tháng và số tiền tiết kiệm đã tăng thêm 200 triệu nữa. 
+Chúng ta đang có chi phí gia đình bạn là 15 triệu/tháng tương ứng với 3 tỷ phúctài khoản tiết kiệm. Giả sử bạn tính lại, mỗi tháng chi phí tăng lên 1 triệu nữa, nghĩa là thay vì 15 triệu/tháng, bạn cần 16 triệu/tháng. Vậy số tiền bạn cần trong ngân hàng là bao nhiêu? Như bạn thấy, đó là 3,2 tỷ. 
+
+Có thể bạn hơi giật mình. 
+
+__Tôi chỉ tăng chi tiêu lên 1 triệu/tháng và số tiền tiết kiệm đã tăng thêm 200 triệu.__ 
+
 Điều đó cho thấy, một đồng bạn chi tiêu thêm có thể ảnh hưởng đến số tiền trong tương lai như thế nào. Ở đây là gấp 200 lần. Cứ 1 triệu bạn tiêu thêm, bạn phải tiết kiệm thêm 200 triệu nữa. Hơi nhiều phải không?
 
 Đó là động lực để bạn suy nghĩ trước khi tiêu pha thêm bất cứ xu nào.
