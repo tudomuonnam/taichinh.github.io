@@ -10,9 +10,12 @@ Giả sử bạn đang ngồi mơ mộng về một ngày tươi đẹp, bạn c
 ## Công thức tự do tài chính
 
 Nghĩ thì khó mà làm thì dễ. Chỉ với vài công thức, thậm chí bạn còn tính nhẩm được. Giả sử toàn bộ chi phí hằng tháng là 15 triệu, như vậy mỗi năm bạn cần 15 triệu x 12 tháng = 180 triệu. Bạn cần một số tiền nằm trong ngân hàng để có mức lãi 180 triệu/năm. Giả sử lãi suất ngân hàng là 6%, số tiền bạn cần để trong ngân hàng là 180 triệu chia 6% = 3 tỷ VNĐ.
+
 Đơn giản không ạ?
+
 Với 3 tỷ VNĐ tiết kiệm trong ngân hàng, mỗi tháng bạn có tiền lãi là 15 triệu. Không phải làm gì nhiều.
 Tương tự vậy, với tiền gửi tiết kiệm lần lượt là 4 tỷ, 5 tỷ, 6 tỷ bạn có 20, 25, 30 triệu/tháng hoàn toàn không phải làm gì. 
+
 Vấn đề còn lại là cố gắng cày cuốc để kiếm được số tiền đó vứt vào ngân hàng thôi, đúng không nào?
 ![Chi phí hàng tháng ảnh hưởng đến tiền tiết kiệm](/post/img/chi_phi_hang_thang.png)
 Bạn có thể tìm thấy file tính toán tại [đây](https://docs.google.com/spreadsheets/d/1JwKEoN298JoaFWfP-l1Auh6VI0nUapUNFJ7LCfTg2dk/edit?usp=sharing)
