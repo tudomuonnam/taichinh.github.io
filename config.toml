@@ -18,7 +18,7 @@ theme = "prav"
 
     [[related.indices]]
         name = "date"
-        weight = 10
+        weight = 100
 
 [[redirects]]
 	from = "/*"
@@ -35,7 +35,7 @@ pagination = "true"
 # Below settings are used throughout the theme. Please update
 [params]
   title = "Tài chính đơn giản"
-  tagline = "Đến hòn đá cũng hiểu"
+  tagline = "Thị trường, tài chính, đầu tư"
   author = "Long Vũ"
   body_classes = "avenir bg-near-white"
 
@@ -43,9 +43,7 @@ pagination = "true"
   email = "mailto:vuduclong2005@gmail.com"
   facebook = "https://www.facebook.com/long.vuduc"
   twitter = "http://twitter.com/tudomuonnam"
-  #medium = "https://www.medium.com/@pravin"
-  #github = "https://github.com/pravin"
-  #linkedin = "http://uk.linkedin.com/in/pravinp"
+
 
 
 # Set unsafe mode to allow markdownify to work with goldmark

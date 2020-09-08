@@ -24,7 +24,7 @@
                 <img src="/img/feature/{{ .Params.image }}" class="pure-img" alt="{{ .Title }}">
             </a>
             {{ end }}
-            <time>{{ .Date.Format "Jan 2 2006" }}</time>
+            <time>{{ .Lastmod.Format "Jan 02 2006" }}</time>
             <div class="pad">
                 <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                 <p>{{ .Description | markdownify }}</p>

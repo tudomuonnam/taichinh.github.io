@@ -1,8 +1,9 @@
 ---
-title: Lập kế hoạch tài chính cá nhân đơn giản?
+title: "Tài chính 101: Tự do tài chính sử dụng tiền tiết kiệm?"
 author: Long Vũ
+description: "Làm thế nào để sống bằng chỉ bằng tiền gửi ngân hàng"
 slug: ke-hoach-tai-chinh-ca-nhan-don-gian 
-date: 2020-08-18T08:10:32+07:00
+date: "2020-08-18T08:10:32+07:00"
 tags: [tài chính cá nhân, tiền tiết kiệm, tự do tài chính]
 ---
 Giả sử bạn đang ngồi mơ mộng về một ngày tươi đẹp, bạn có thể đầu tư một số tiền lớn, hằng tháng lĩnh tiền lãi. Số tiền lãi đó có thể trang trải mọi chi phí hằng tháng. Bạn chỉ việc ngồi nhà ăn chơi, hưởng thụ. Thuật ngữ thường gọi là “Tự do tài chính”. Bạn có tự hỏi số tiền mình cần là bao nhiêu không?
@@ -42,4 +43,4 @@ __Tôi chỉ tăng chi tiêu lên 1 triệu/tháng và số tiền tiết kiệm
 
 ## Tạm kết
 
-Độc lập tài chính không có nghĩa là ăn không ngồi rồi không làm gì cả. Độc lập tài chính có nghĩa là bạn không phải phụ thuộc quá nặng nề vào tiền bạc nữa. Cho bạn cơ hội tự do làm những thứ mà bạn thích hoặc thấy có ý nghĩa. Ngoài kế hoạch Độc lập tài chính,  các kế hoạch khác như hỗ trợ tài chính cho con cái học hành, bảo hiểm y tế, sức khoẻ hay nâng cao kiến thức bản thân cũng là những thứ cần lưu tâm. 
+Độc lập tài chính không có nghĩa là ăn không ngồi rồi không làm gì cả. Độc lập tài chính có nghĩa là bạn không phải phụ thuộc quá nặng nề vào tiền bạc nữa. Cho bạn cơ hội tự do làm những thứ mà bạn thích hoặc thấy có ý nghĩa. Ngoài kế hoạch Độc lập tài chính, các kế hoạch khác như hỗ trợ tài chính cho con cái học hành, bảo hiểm y tế, sức khoẻ hay nâng cao kiến thức bản thân cũng là những thứ cần lưu tâm. 
