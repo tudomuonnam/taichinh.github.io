@@ -4,7 +4,7 @@ author: Long Vũ
 description: "Ít tiền có thể tự lập tài chính được không?"
 slug: cac-phuong-an-su-dung-dong-tien
 date: "2020-08-18T08:10:32+02:00"
-tags: [tài chính cá nhân, tiền tiết kiệm, tự do tài chính]
+tags: [tài chính cá nhân,tài chính 101, tiền tiết kiệm, tự do tài chính]
 ---
 ## Giới thiệu 
 
