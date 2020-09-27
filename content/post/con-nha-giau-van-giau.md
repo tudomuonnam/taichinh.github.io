@@ -1,10 +1,10 @@
-
 ---
 title: Con vua thì lại làm vua ...
 description: Số liệu đã khẳng định lại chân lý này, ít nhất là ở Mỹ.
 author: Long Vũ
 slug: con-vua-thi-lai-lam-vua
 date: "2020-08-18T07:10:32+04:00"
+tags: [nuôi dạy trẻ, giáo dục, môi trường, giàu nghèo]
 ---
 
 Sau hàng trăm câu truyện bài viết truyền động lực về các tỷ phú tự thân. Những người đã vượt qua bao khó khăn, thất bại để thành công được mọi người share và lấy làm động lực để khẳng định "Giấc Mơ Mỹ". Các bài viết khoa học và thống kê lại cho thấy chiều ngược lại. Những đứa trẻ sinh ra trong gia đình giàu có khả năng cao sẽ giàu. Ngược lại, những đứa trẻ sinh ra trong nghèo khó dường như sẽ phải nỗ lực hơn rất nhiều để vượt qua được sức mạnh của thống kê này.

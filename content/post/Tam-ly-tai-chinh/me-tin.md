@@ -9,7 +9,7 @@ tags: [tâm lý, thị trường,mê tín, chim bồ câu, thực nghiệm]
 Liệu bạn có tin rằng nếu mình làm vỡ gương, một điều không may sẽ xảy ra? Hay đầu năm lên chùa cầu khấn, xin lộc, cuối năm trả lễ là việc PHẢI LÀM. Xin chào mừng đến với thế giới của mê tín. Vài người mê tín chút với hi vọng được Trời Phật chiếu cố chút ít. Người khác coi việc thực hành với cõi âm là việc buộc phải làm. Nếu không sẽ bị trừng phạt, mất công ăn việc làm, khánh kiệt tài sản ... Vài người nghe tư vấn xong phá cả nhà cửa ra làm lại tốn kém vô số. Hãy thử xem khoa học có tìm hiểu gì về vấn đề này.
 
 Ở đây ta tạm định nghĩa __Mê tín là niềm tin rằng, bằng việc thực hiện các hành vi nhất định họ sẽ đạt được kết quả nào đó mà trên thực tế không phải như vậy__
-# Thực nghiệm với chim bồ câu
+## Thực nghiệm với chim bồ câu
 Mùa hè năm 1947, nhà tâm lý học hành vi Skinner xuất bản một bản nghiên cứu về hành vi mê tín của loài bồ câu. Nghiên cứu tiết lộ, ngay cả loài vật cũng có thể thực hành mê tín như con người.
 Trong nghiên cứu của mình, ông chọn một nhóm chim bồ câu đã bị bỏ đói làm thực nghiệm. Những chú chim này đã bị giảm thức ăn khiến trọng lượng của chúng chỉ bằng 2/3 những chú chim bình thường. Sau đó, chim bồ câu thực nghiệm được đặt trong các chuồng riêng biệt. Chúng được lắp các máy cho ăn tự động. Những chiếc máy này được thiết kế để tự động mở sau 15 giây. Các chú chim đói dĩ nhiên là thèm ăn và muốn cái máy mở càng nhiều lần, càng lâu thì càng tốt. Chẳng bao lâu, chim thực nghiệm tin rằng __bằng cách thực hiện một số hành vi khác biệt, thức ăn sẽ mở ra theo ý chúng__
 
@@ -24,6 +24,7 @@ Cuối cùng, để kết thúc thực nghiệm, ông để chim ăn tự do. Sa
 Những thực nghiệm của Skinner đã được lặp lại ở một số nơi khác nhau cho kết quả tương tự nên được công nhận rộng rãi trong giới khoa học với rất ít phản đối.
 
 Bản báo cáo gốc có thể tìm thấy tại [đây](https://drive.google.com/file/d/1_C5xbW4o5OUmmrXeXlT2NSnBGIrMiGqu/view?usp=sharing)
+
 
 ## Một vài kết luận rút ra 
 
