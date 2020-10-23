@@ -1,32 +1,36 @@
 baseURL = "https://taichinhdongian.netlify.app"
 languageCode = "vi"
-#title = "Tài chính đơn giản"
 theme = "prav"
-
-[taxonomies]
-   tag = "tags"
-   category = "categories"
-   
+[markup.goldmark.renderer]
+unsafe = true
+[params]
+author = "Long Vũ"
+body_classes = "avenir bg-near-white"
+tagline = "Thị trường, tài chính, đầu tư"
+title = "Tài chính đơn giản"
 [related]
-    threshold = 0 
-    includeNewer = true
-    toLower = false
-
-    [[related.indices]]
-        name = "categories"
-        weight = 100
-
-    [[related.indices]]
-        name = "date"
-        weight = 100
-
+includeNewer = true
+threshold = 0
+toLower = false
+[[related.indices]]
+name = "categories"
+weight = 100
+[[related.indices]]
+name = "date"
+weight = 100
+[social]
+email = "mailto:vuduclong2005@gmail.com"
+facebook = "https://www.facebook.com/long.vuduc"
+twitter = "http://twitter.com/tudomuonnam"
+[taxonomies]
+category = "categories"
+tag = "tags"
 [[redirects]]
-	from = "/*"
-	to = "/404/"
-	status = 404
-
+from = "/*"
+pagination = "true"
 pygmentsCodeFences = "true"
 pygmentsStyle = "perldoc"
+<<<<<<< HEAD
 pagination = "true"
 
 #googleanalytics = ""
@@ -52,3 +56,7 @@ pagination = "true"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+=======
+status = 404
+to = "/404/"
+>>>>>>> 43ddac57e3f82c0d88c6ebaf0a133c0a365a34e7
