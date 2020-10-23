@@ -1,4 +1,3 @@
-
 ---
 title: Đầu tư được công nhận là kĩ năng cơ bản
 author: ngankute

@@ -1,6 +1,6 @@
 {{ if or (.Date) (ne .Params.Kind "page") }}
 <div class="date">
-   <time pubdate="{{ .Date.Format "2020-01-02" }}">{{ .Date.Format "January 2, 2020" }}</time>
+   <time pubdate="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2020" }}</time>
     <span class="author">by {{ .Params.author }}</span>
 </div>
 {{ end }}
