@@ -30,33 +30,3 @@ from = "/*"
 pagination = "true"
 pygmentsCodeFences = "true"
 pygmentsStyle = "perldoc"
-<<<<<<< HEAD
-pagination = "true"
-
-#googleanalytics = ""
-#disqusShortname = ""
-
-# Below settings are used throughout the theme. Please update
-[params]
-  title = "Tài chính đơn giản"
-  tagline = "Thị trường, tài chính, đầu tư"
-  author = "Long Vũ"
-  body_classes = "avenir bg-near-white"
-
-[social]
-  email = "mailto:doluong2007@gmail.com"
-  facebook = "https://www.facebook.com/long.vuduc"
-  twitter = "http://twitter.com/tudomuonnam"
-
-
-
-# Set unsafe mode to allow markdownify to work with goldmark
-# This is important. Please do not delete. It is used to re-render markdown
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-=======
-status = 404
-to = "/404/"
->>>>>>> 43ddac57e3f82c0d88c6ebaf0a133c0a365a34e7
